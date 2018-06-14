@@ -1,2 +1,2 @@
-worker: bundle exec puma -C config/puma.rb
+job: bundle exec puma -C config/puma.rb
 
